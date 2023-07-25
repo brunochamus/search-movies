@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 
-const API_ENDPOINT =  `http://www.omdbapi.com/?apikey=a615f5ed`
+const API_ENDPOINT =  `https://www.omdbapi.com/?apikey=a615f5ed`
 
 
 export const useFetch = params => {
